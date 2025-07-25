@@ -110,7 +110,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -236,7 +237,8 @@
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -341,7 +343,8 @@
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -421,7 +424,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -488,7 +492,8 @@
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -522,7 +527,8 @@
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -536,11 +542,6 @@
 							"variableTypeCheck": false,
 							"assignmentExpression": "false",
 							"assignedVariableName": "uiInput.matches"
-						},
-						{
-							"variableTypeCheck": false,
-							"assignmentExpression": "true",
-							"assignedVariableName": "sendMail"
 						}
 					]
 				},
@@ -562,7 +563,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
@@ -591,7 +593,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -631,7 +634,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -1061,8 +1065,8 @@
 		}
 	],
 	"viewport": {
-		"x": 38.18538216435627,
-		"y": -61.69451094727481,
-		"zoom": 0.7169776240079136
+		"x": -1911.115285458562,
+		"y": -444.6986503529497,
+		"zoom": 0.8498934278248855
 	}
 }
